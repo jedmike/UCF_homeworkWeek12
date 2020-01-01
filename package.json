@@ -1,0 +1,25 @@
+{
+  "name": "UCF_homeworkWeek12",
+  "version": "1.0.0",
+  "description": "Bambazon",
+  "main": "bambazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmike/UCF_homeworkWeek12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedmike/UCF_homeworkWeek12/issues"
+  },
+  "homepage": "https://github.com/jedmike/UCF_homeworkWeek12#readme",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "msql": "^1.0.3",
+    "mysql": "^2.17.1"
+  }
+}
