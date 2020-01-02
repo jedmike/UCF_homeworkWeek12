@@ -15,8 +15,8 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 https://github.com/jedmike/UCF_homeworkWeek12_Bambazon
 
 * Include screenshots (or a video) of typical user flows through your application (for the customer and if relevant the manager/supervisor). This includes views of the prompts and the responses after their selection (for the different selection options).
-https://github.com/jedmike/UCF_homeworkWeek12_Bambazon/images
-Images are ordered _1-_N.
+Images are in the image folder on the repo.
+Images are ordered _1-_7
 
 
 
