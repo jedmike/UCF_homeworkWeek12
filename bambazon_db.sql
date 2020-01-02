@@ -16,14 +16,13 @@ CREATE TABLE products (
 SELECT * FROM products;
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Organic Bananas", "Fresh Fruit", 0.15, 450),
-("Organic Bananas", "Fresh Fruit", 0.15, 450),
-("Organic Apples", "Fresh Fruit", 0.15, 450),
-("Organic Pears", "Fresh Fruit", 0.15, 450),
-("Organic Peaches", "Fresh Fruit", 0.15, 450),
-("Organic Plumss", "Fresh Fruit", 0.15, 450),
-("Organic Tangerines", "Fresh Fruit", 0.15, 450),
-("Organic Grapefruits", "Fresh Fruit", 0.15, 450),
-("Organic Qumquats", "Fresh Fruit", 0.15, 450),
-("Organic Dragon Fruit", "Fresh Fruit", 0.15, 450),
-("Organic Pluots", "Fresh Fruit", 0.15, 450);
+VALUES ("Organic Bananas", "Fresh Fruit", 0.15, 100),
+("Organic zzzStrawberies", "Fresh Fruit", 1.25, 450),
+("Organic Apples", "Fresh Fruit", 0.35, 50),
+("Organic Pears", "Fresh Fruit", 0.30, 40),
+("Organic Dragon Fruit", "Fresh Fruit", 2.15, 45),
+("Organic Chicken Breasts", "Meats", 4.45, 30),
+("Organic Chicken Thighs", "Meats", 9.45, 60),
+("Organic Chicken Whole", "Meats", 8.00, 10),
+("Organic Chicken liver", "Meats", 1.45, 25),
+("Organic Chicken Thighs", "Meats", 4.45, 30);
