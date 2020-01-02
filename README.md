@@ -10,14 +10,15 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 
 ## Submission Guide
 
+
 Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a `README.md` file.
+https://github.com/jedmike/UCF_homeworkWeek12_Bambazon
 
 * Include screenshots (or a video) of typical user flows through your application (for the customer and if relevant the manager/supervisor). This includes views of the prompts and the responses after their selection (for the different selection options).
+https://github.com/jedmike/UCF_homeworkWeek12_Bambazon
+Images are ordered _1-_N.
 
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works. 
 
-*
-* Please submit the link to the Github Repository!
 
 ## Instructions
 
@@ -52,23 +53,27 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 
    * If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.--DONE
 
-8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.
+8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.--DONE
+
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
 
 - - -
 
-* If this activity took you between 8-10 hours, then you've put enough time into this assignment. Feel free to stop here -- unless you want to take on the next challenge.
-
-- - -
-
-
-
-### Create a README.md
+* If this activity took you between 8-10 hours, then you've put enough time into this assignment. Feel free to stop here -- unless you want to take on the next challenge.--DONE
 
 
 - - -
 
-### Add To Your Portfolio
+
+
+### Create a README.md--DONE
+
+
+
+- - -
+
+### Add To Your Portfolio--DONE
+
 
 
